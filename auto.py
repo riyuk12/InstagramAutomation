@@ -1,4 +1,4 @@
-#user:chotariyuk,pass:rajatbose10
+#user:chotariyuk,pass:
 #explorexpath://*[@id="react-root"]/section/nav/div[2]/div/div/div[3]/div/div[4]/a
 #username input: //*[@id="loginForm"]/div/div[1]/div/label/input
 #password input: //*[@id="loginForm"]/div/div[2]/div/label/input
